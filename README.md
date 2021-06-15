@@ -23,8 +23,8 @@ OS1 and OS2 are columns created to ease our search in the script.
 
 ### dealernet.py
 The main script.
-Its actions:
-1- login system
-2- search for the service order in the system, and its dealer
-3- in the SO, look for each invoice number, OS1 then OS2, enter it, and download the invoice pdf file. 
+It goes on the following order:
+1. login system
+2. search for the service order in the system, and its dealer
+3. in the SO, look for each invoice number, OS1 then OS2, enter it, and download the invoice pdf file. 
 
